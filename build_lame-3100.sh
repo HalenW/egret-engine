@@ -1,5 +1,6 @@
 #!/bin/sh
 
+# MacOS编译
 # 脚本所在地址
 PakagePath=`pwd`
 echo "脚本所在地址-----:$PakagePath"
